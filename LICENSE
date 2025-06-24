@@ -1,0 +1,27 @@
+# LICENSE for StappaPlay
+
+Copyright (c) 2024 Fabrizio
+
+## Permission Notice
+
+Anyone is permitted to use, copy, modify, and distribute this software, either in source or compiled form, for any purpose, provided that the above copyright notice and this permission notice are included in all copies or substantial portions of the software.
+
+## Restrictions
+
+- The name "StappaPlay" and its related contributions may not be used for commercial purposes without explicit written permission.
+- Use of this software for illegal activities under local, national, or international law is strictly prohibited.
+- It is forbidden to remove or alter any references to this license from the source code or accompanying documentation.
+
+## Disclaimer of Warranty
+
+THIS SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NON-INFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+## Use at Your Own Risk
+
+The use of StappaPlay is entirely at your own risk. The author disclaims any responsibility for malfunction, data loss, or any direct or indirect damage resulting from the use of this software.
+
+## Contributions
+
+Contributions are welcome. By submitting a pull request or any other form of contribution, you agree that your contribution will be licensed under the terms of this license.
+
+StappaPlay is a lightweight, open-source utility designed to help developers quickly prototype media streaming components in web applications.
